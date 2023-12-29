@@ -1,2 +1,4 @@
 # Demo
-Git &amp; GitHub Learning Repo.
+Git and GitHub Learning Repo.
+
+Learning Git.
